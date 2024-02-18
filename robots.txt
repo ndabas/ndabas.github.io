@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.nikhildabas.com/sitemap.xml 
+Sitemap: https://www.nikhildabas.com/sitemap.xml 
